@@ -3,7 +3,7 @@
 I'm Vijay Garg.
 
 Here are a few details about me:
-- Currently Vice President at Goldman Sachs, India
+- Currently Vice President at Goldman Sachs, India. Tech lead at Core Data Quality, Data Platform.
 - Programmer with a good grip on Data Structures and Algorithms
 - Good at Java stack development, trying to learn new technologies
 - Email: vijay24garg@gmail.com
