@@ -4,7 +4,7 @@ I'm Vijay Garg.
 
 Here are a few details about me:
 - Currently Vice President at Goldman Sachs, India
-- Competitive programmer with a good grip on Data Structures and Algorithms
+- Programmer with a good grip on Data Structures and Algorithms
 - Good at Java stack development, trying to learn new technologies
 - Email: vijay24garg@gmail.com
 - Skills:
